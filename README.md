@@ -1,33 +1,40 @@
-<h1 align="center">Hello there, I'm Phoenix</h1>
-<h3 align="center">A person working on bypassing school systems and playing minecraft</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phoenix M
+=================================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phyt90dityt&label=The%20Visitors%20Count&color=b40e0e&style=flat" alt="phyt90dityt" /> </p>
+Github freak, gamer, and PRØXY builder.
+---------------------------------------
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phyt90dityt" alt="phyt90dityt" /></a> </p>
+I learned to code by googling how to convert HTML code and hex code. I am happy to work on anything that interests me, as long as you credit me. NOTE THAT THE SKILLS BELOW ARE WHAT I'M INTERESTED IN, NOT THE STUFF I CAN DO!
 
-- 🔭 I’m currently working on **this readme.**
+* 🌍  I'm based in a galaxy far, far away (yes I just quoted George Lucas)
+* ✉️  You can contact me at [Chess049@rsdmo.org](mailto:Chess049@rsdmo.org)
+* 🧠  I'm learning how to build an IRC channel, which will be posted here too soon.
+* 🤝  I'm open to collaborating on proxies and games.
+* ⚡  OPEN UP THAT CAN OF WHØØP-@$$, BOYS!
 
-- 👯 I’m looking to collaborate on **The New EaglercraftY project.**
+<a href="https://www.github.com/phyt90dityt" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/phyt90dityt?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
 
-- 🤝 I’m looking for help with **anything that works like Hypertabs**
+### Skills
 
-- 💬 Ask me about **anything, really**
 
-- 📫 You can reach me at **Chess049@rsdmo.org**
-
-- ⚡ Here's a fun fact: **If you crash my chromebook with your app, I will open up a can of whoop-ass on your profile.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/21914017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21914017" height="30" width="40" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phyt90dityt&show_icons=true&locale=en&layout=compact" alt="phyt90dityt" /></p>
+### Socials
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phyt90dityt&show_icons=true&locale=en" alt="phyt90dityt" /></p>
+<p align="left"> <a href="https://discord.com/users/798934178783559710" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/phyt90dityt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://phyt90dit.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phyt90dityt&theme=dark" alt="phyt90dityt" /></p>
+### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/phyt90dityt"><img src="https://github-readme-stats.vercel.app/api?username=phyt90dityt&show_icons=true&hide=prs,&count_private=true&title_color=ef4444&text_color=10b981&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="phyt90dityt's GitHub stats" /></a>
