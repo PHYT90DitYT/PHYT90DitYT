@@ -1,16 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phoenix M
-=================================================================================================================================
 
-Github freak, gamer, and PRØXY builder.
 ---------------------------------------
 
-I learned to code by googling how to convert HTML code and hex code. I am happy to work on anything that interests me, as long as you credit me. NOTE THAT THE SKILLS BELOW ARE WHAT I'M INTERESTED IN, NOT THE STUFF I CAN DO!
-
-* 🌍  I'm based in a galaxy far, far away (yes I just quoted George Lucas)
-* ✉️  You can contact me at [Chess049@rsdmo.org](mailto:Chess049@rsdmo.org)
-* 🧠  I'm learning how to build an IRC channel, which will be posted here too soon.
+* ✉️  You can contact me at [rtx2048@skiff.com](mailto:rtx2048@skiff.com)
+* 🧠  I'm learning how to build an IRC channel
 * 🤝  I'm open to collaborating on proxies and games.
-* ⚡  OPEN UP THAT CAN OF WHØØP-@$$, BOYS!
+* ⚡  I mod 3 discord servers
 
 <a href="https://www.github.com/phyt90dityt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/phyt90dityt?logo=github&style=for-the-badge&color=6366f1&labelColor=1c1917" /></a>
